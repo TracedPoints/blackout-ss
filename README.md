@@ -17,7 +17,7 @@
 #### This executor is banned in almost every serverside. Your Lucky To Have It!
 
 ## [2.] Script Hub
-#### This hub has many rare scripts, rare serversides, and so much more! IT EVEN HAS A SHUTDOWN AND SLock Which Are Banned FROM SO MANY SERVERSIDES AND YOU HAVE IT :D
+#### This hub has many rare scripts, rare serversides, and so much more! SOON TO HAVE A SHUTDOWN AND SLock Which Are Banned FROM SO MANY SERVERSIDES :D
 
 ## [3.] Dragify v2.3
 #### Dragify Is A UI Library That Is Used To Make The RoBlox Drag Method Depricated, It's recommended To Use This If You Use The Source. 
