@@ -34,8 +34,14 @@
 ## [7.] Key-Binder
 #### Key-Binder Is Just A KeyBind System That I Wrote.
 
-## [8.] Atlas X v2.1
-#### Atlas X Is A LBI (Lua Bytecode Interpreter) That My Friend By The Alias Of Aether Wrote. It's a mix of FiOne and ReRubi to make Require Execution More Stable.
+## [8.] Rerubi
+#### Rerubi Is A LBI (Lua Bytecode Interpreter) That Makes It So Serverside Scripts Are Executable. It's Also The Best LBI
 
 ## [9.] Blackout Tweener
-#### Blackout Tweener Is The Tween Script Used For The Loader, It Writes Most Of The Injection Method & It Has The Dragify Implemented In It.
+#### Blackout Tweener Is The Tween Script Used For The Loader, It Writes Most Of The Injection Method.
+
+## [10.] Vi's Syntax
+#### Vi's Syntax Highlighter Is A lua Syntax Highlighter. He Didnt Script It Himself, But All Good Server-Sides Use It.
+
+## [11.] Blackout Hide
+#### Blackout Hide Is A Script Hiding Library That I Scripted Myself And Can Be Found [Here](https://roblox.com/library/6119160345 "It's Open-Source & Possibly The Best Hide Module. All you Need To Change Is Tuff In The Settings Which Is The ModuleScript. Just Put In Your ScriptBox, and Hide Button.")
