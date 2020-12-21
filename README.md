@@ -44,4 +44,9 @@
 #### Vi's Syntax Highlighter Is A lua Syntax Highlighter. He Didnt Script It Himself, But All Good Server-Sides Use It.
 
 ## [11.] Blackout Hide
-#### Blackout Hide Is A Script Hiding Library That I Scripted Myself And Can Be Found [Here](https://roblox.com/library/6119160345 "It's Open-Source & Possibly The Best Hide Module. All you Need To Change Is Tuff In The Settings Which Is The ModuleScript. Just Put In Your ScriptBox, and Hide Button.")
+#### Blackout Hide Is A Script Hiding Library That I Scripted Myself And Can Be Found: [Here](https://roblox.com/library/6119160345 "It's Open-Source & Possibly The Best Hide Module. All you Need To Change Is Tuff In The Settings Which Is The ModuleScript. Just Put In Your ScriptBox, and Hide Button.")
+
+## [11 Extended.] Blackout Hide Usage
+#### To Use It Correctly, In The ModuleScript Named "BlackoutHide", Drag It Inside Your Hide Button. Then Change The ScriptBox Part To Your Script Box. 
+* Example: 
+![Example Of Code](https://media.discordapp.net/attachments/790270122451402813/790683155324731413/unknown.png?width=1045&height=513)
