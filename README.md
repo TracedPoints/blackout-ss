@@ -46,7 +46,6 @@
 ## [11.] Blackout Hide
 #### Blackout Hide Is A Script Hiding Library That I Scripted Myself And Can Be Found: [Here](https://roblox.com/library/6119160345 "It's Open-Source & Possibly The Best Hide Module.")
 
-## [11/2] Usage
 #### To Use It Correctly, Take The ModuleScript Named "BlackoutHide", Drag It Inside Your Hide Button. Then Change The ScriptBox Part To Your Script Box. 
 ![Example Of Code](https://media.discordapp.net/attachments/790270122451402813/790683155324731413/unknown.png?width=1045&height=513)
 
