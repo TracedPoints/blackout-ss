@@ -20,7 +20,7 @@
 #### This hub has many rare scripts, rare serversides, and so much more! SOON TO HAVE A SHUTDOWN AND SLock Which Are Banned FROM SO MANY SERVERSIDES :D
 
 ## [3.] Dragify v2.3
-#### Dragify Is A UI Library That Is Used To Make The RoBlox Drag Method Depricated, It's recommended To Use This If You Use The Source. 
+#### Dragify Is A UI Library That Is Used To Make The RoBlox Drag Method Depricated, It's recommended To Use This If You Use This Source. 
 
 ## [4.] Smooth Scroll
 #### Smooth Scroll Is A UI Scroll Library Made By Eltobb & Is Popular Because Of The KHV2-3 Serversides use of it!
