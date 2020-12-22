@@ -53,5 +53,4 @@
 #### Now, Here Is The Main Code, Only Change This If You Know What Your Doing. Basically What It Does, Is We Will Add Our Settings Inside A Script. Then We Create A TrueFalseValue ("BoolValue"). We Then Name It To Match The Rest Of The Code. Now, We Set It's Value To Our False Setting. Now, When Our Button Is Clicked, We Will Change The Value Generally Or In An If Statement If Necessary. We Then Change The Visibility Of Our Script Box To Simulate The Hide Function. It Does This Because of How Syntax Highlighting Is. If Your Executor Doesnt Have Lines & Syntax, Change Line 39 To "Config.codeBox.TextTransparency = 1" & Line 43 To "Config.codeBox.TextTransparency = 0"
 ![Example Of Code](https://media.discordapp.net/attachments/788116949343010897/790775754052993034/unknown.png?width=675&height=513)
 
-#### We Now Have A Perfect Working Hide/Unhide Function:
-https://gyazo.com/d2488f474f722107854f84f63b10c595
+#### We Now Have A Perfect Working Hide/Unhide [Function](https://i.gyazo.com/d2488f474f722107854f84f63b10c595.mp4)
