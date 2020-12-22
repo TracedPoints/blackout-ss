@@ -44,9 +44,12 @@
 #### Vi's Syntax Highlighter Is A lua Syntax Highlighter. He Didnt Script It Himself, But All Good Server-Sides Use It.
 
 ## [11.] Blackout Hide
-#### Blackout Hide Is A Script Hiding Library That I Scripted Myself And Can Be Found: [Here](https://roblox.com/library/6119160345 "It's Open-Source & Possibly The Best Hide Module. All you Need To Change Is Tuff In The Settings Which Is The ModuleScript. Just Put In Your ScriptBox, and Hide Button.")
+#### Blackout Hide Is A Script Hiding Library That I Scripted Myself And Can Be Found: [Here](https://roblox.com/library/6119160345 "It's Open-Source & Possibly The Best Hide Module.")
 
 ## [11 Extended.] Blackout Hide Usage
-#### To Use It Correctly, In The ModuleScript Named "BlackoutHide", Drag It Inside Your Hide Button. Then Change The ScriptBox Part To Your Script Box. 
-* Example: 
+#### To Use It Correctly, Take The ModuleScript Named "BlackoutHide", Drag It Inside Your Hide Button. Then Change The ScriptBox Part To Your Script Box. 
 ![Example Of Code](https://media.discordapp.net/attachments/790270122451402813/790683155324731413/unknown.png?width=1045&height=513)
+
+#### Now, Here Is The Main Code, Only Change This If You Know What Your Doing. Basically What It Does, Is We Will Add Our Settings Inside A Script. Then We Create A TrueFalseValue ("BoolValue"). We Then Name It To Match The Rest Of The Code. Now, We Set It's Value To Our False Setting. Now, When Our Button Is Clicked, We Will Change The Value Generally Or In An If Statement If Necessary. We Then Change The Visibility Of Our Script Box To Simulate The Hide Function. It Does This Because of How Syntax Highlighting Is. If Your Executor Doesnt Have Lines & Syntax, Change Line 39 To "Config.codeBox.TextTransparency = 1" & Line 43 To "Config.codeBox.TextTransparency = 0"
+
+![Example Of Code](https://media.discordapp.net/attachments/788116949343010897/790775754052993034/unknown.png?width=675&height=513)
