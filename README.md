@@ -53,3 +53,6 @@
 ![Example Of Code](https://media.discordapp.net/attachments/788116949343010897/790775754052993034/unknown.png?width=675&height=513)
 
 #### We Now Have A Perfect Working Hide/Unhide [Function](https://i.gyazo.com/d2488f474f722107854f84f63b10c595.mp4)
+
+## [12.] Keystrokes Mod
+#### Keystrokes is based off the minecraft mod Keystrokes. it basically shows if your pressing w, a, s,d, etc. This Can Be Found In The Settings Menu. This One Was Created By Me.
