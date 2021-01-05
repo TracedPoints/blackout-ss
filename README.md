@@ -28,8 +28,8 @@
 ## [5.] RoBlox Functions
 #### RoBlox Functions Is Just The Regular RoBlox LUA Function System.
 
-## [6.] Custom Spoof Library
-#### This Is Just A Fork of Aethers Spoof API
+## [6.] Always On Top
+#### Simulates The Always OOn Top Feauture Of An Exploit.
 
 ## [7.] Key-Binder
 #### Key-Binder Is Just A KeyBind System That I Wrote.
