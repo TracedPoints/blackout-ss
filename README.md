@@ -58,4 +58,7 @@
 #### Keystrokes is based off the minecraft mod Keystrokes. it basically shows if your pressing w, a, s,d, etc. This Can Be Found In The Settings Menu. This One Was Created By Me.
 
 ## [13.] Graphics
-#### Just some custom graphics. i also implemented the realism plugin to it!
+#### Just some custom graphics.
+
+## [14.] Realism Mod
+#### This Is A Mod Made By GizmoTjaz. It Makes The Game Cleaner & Smoother
