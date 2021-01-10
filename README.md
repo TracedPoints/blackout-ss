@@ -1,6 +1,6 @@
 # Blackout ServerSide
 
-#### Blackout Is An Open-Source Serverside & Is The Only One You Will Need!
+#### Blackout Is The Only Serverside You Will ever Need!
 
 ----------------
 
